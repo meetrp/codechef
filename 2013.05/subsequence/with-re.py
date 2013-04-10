@@ -93,6 +93,7 @@ def main():
 
 if __name__ == '__main__':
     """
-    The solution for codechef challenge as detailed at http://ww2.codechef.com/MAY13/problems/NAME2
+    The solution for codechef challenge as detailed at
+    http://ww2.codechef.com/MAY13/problems/NAME2
     """
     main()
